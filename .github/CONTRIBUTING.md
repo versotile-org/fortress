@@ -13,7 +13,7 @@ Hello! We, the maintainers, are very pleased that you are interested in contribu
 
 - Try to search for your issue, it may have already been answered or even fixed in the main branch (`main`).
 
-- Check if the issue is reproducible with the latest version of Verso. If you are using a nightly release, please indicate the specific version you are using.
+- Check if the issue is reproducible with the latest version of Fortress. If you are using a nightly release, please indicate the specific version you are using.
 
 - It is **required** that you clearly describe the steps necessary to reproduce the issue you are running into. Although we would love to help our users as much as possible, diagnosing issues without clear reproduction steps is extremely time-consuming and simply not sustainable.
 
