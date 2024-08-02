@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Hello! We, the maintainers, are very pleased that you are interested in contributing to Verso. However, before you submit your contribution, please take a moment to read the [Code of Conduct](CODE_OF_CONDUCT.md) and the appropriate section for the contribution you plan to make:
+Hello! We, the maintainers, are very pleased that you are interested in contributing to Fortress. However, before you submit your contribution, please take a moment to read the [Code of Conduct](CODE_OF_CONDUCT.md) and the appropriate section for the contribution you plan to make:
 
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
