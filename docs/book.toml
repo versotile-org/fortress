@@ -1,0 +1,6 @@
+[book]
+authors = ["FORTRESS Developers"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FORTRESS Technical Documentation"

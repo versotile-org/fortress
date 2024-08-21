@@ -1,0 +1,22 @@
+[package]
+name        = "fortress"
+version     = "0.1.0"
+edition     = "2021"
+authors     = ["team-fortress@versotile.org"]
+description = "FORTRESS is a software enclave similar to hardware keys such as yubikey and similar products. The main idea is to store sensitive data that is not directly accessible to the user. Rather, any cryptographic operation required, such as signing, encrypting, decrypting, etc., takes place inside a so-called vault: a fraction of the system memory that remains highly guarded and encrypted with the latest state-of-the-art encryption."
+license     = "Apache-2.0"
+keywords    = ["security","cryptography","virtualization"]
+
+[[bin]]
+name        = "fortress"
+path        = "bin/main.rs"
+
+[[test]]
+name        = "test_fortress"
+
+[dependencies]
+clap                = { version = "4.5.16", features = ["derive"] }
+fortress_shared     = { package = "shared", path = "crates/shared"}
+
+[workspace]
+members     = ["crates/*"]
